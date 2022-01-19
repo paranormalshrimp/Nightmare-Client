@@ -1,0 +1,23 @@
+/**
+ * @author CoolBird
+ *
+ */
+
+FOR WINDOWS:
+Click the search bar and put in this: "%appdata%"
+then click on the folder called ".minecraft"
+then the folder "versions"
+then create a new folder titled "nightmare" 
+(it has to be titled that you cant customize it)
+afterwars copy the "nightmare" .jar file and the .json file in to the newly created "nightmare folder".
+Close out of file explorer
+Open your minecraft launcher and click on the "Installations" tab.
+Ensure the "modded" box has a green checkbox
+Click the "new installation" button.
+Click on the "VERSION" dropdown menu.
+Scroll until you see "release Nightmare" then click on it. (It should be right below the 1.8 installation)
+Click the green "create" button.
+Press play on ur new installation.
+
+FOR MAC/LINUX:
+figure it out urself nerd.

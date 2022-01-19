@@ -1,0 +1,21 @@
+/**
+ * @author CoolBird
+ *
+ */
+
+NIGHTMARE CLIENT CHANGELOG:
+
+Ver1.0:
+Added Sprint
+Added Fly
+Added NoFall
+Added KillAura
+Added FullBright
+________________________________
+
+Ver1.1:
+Made KillAura bypass BlocksMC
+Made Fly bypass BlocksMC
+Added JumpFly
+________________________________
+
