@@ -10,7 +10,7 @@ N -NoFall
 K -Fly
 R -Sprint
 Install instructions included.
-This client works well on BlocksMC and extrordianry on HonlyCraft.
+This client works well on BlocksMC and extrordinary on HonlyCraft.
 (NoFall patched on BlocksMC, Fly/JumpFly wont kick as long as u arent retarded, and KA rarely kicks but it occsionally happens.)
 The client is unobfuscated so you can check for anything sus if u want, or if you wanna skid.
 I'll try to update once every like 3 months at the least until I would rather jump off a cliff than code another update.
